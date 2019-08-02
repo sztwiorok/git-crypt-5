@@ -1,0 +1,2 @@
+1 filter=git-crypt diff=git-crypt
+2 filter=git-crypt-k2 diff=git-crypt-k2
